@@ -1,5 +1,6 @@
-The parquet files (dataset for each day) can be downloaded from: https://www.kaggle.com/datasets/dhoogla/csecicids2018
+All parquet files are used in the code via https://huggingface.co/datasets/iraklislf/cic-ids2018-dataset/tree/main/data
 
+The parquet files (dataset for each day) can be downloaded from: https://www.kaggle.com/datasets/dhoogla/csecicids2018
 The dataset is publicly available through several sources: the main repository at the University of New Brunswick (https://www.unb.ca/cic/datasets/ids-2018.html), 
 the AWS Open Data Registry (https://registry.opendata.aws/cse-cic-ids2018/), and community platforms like Kaggle (https://www.kaggle.com/datasets/dhoogla/csecicids2018), 
 which ensures open access for research.
