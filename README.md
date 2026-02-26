@@ -1,6 +1,8 @@
 # ML_IDS2018
 The code investigates the application of classical machine learning algorithms for network intrusion detection using the CSE CIC IDS2018 dataset, a modern benchmark that captures realistic traffic and a diverse set of contemporary cyberattacks. 
 
+All parquet files are used in the code via https://huggingface.co/datasets/iraklislf/cic-ids2018-dataset/tree/main/data
+
 Network Intrusion dataset (CSE-CIC-IDS 2018) --> https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset](https://www.unb.ca/cic/datasets/ids-2018.html)
 
 Summary:
